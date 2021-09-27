@@ -1,0 +1,2 @@
+JAR-file and bat-scripts for its running are located in 'bin' branch, cause they are output files.
+full address: by\RafaelPavlov\bin\classesObjects\task11\
